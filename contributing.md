@@ -48,6 +48,7 @@ Please note that the markdown has a specific format. Please follow the sample fo
 
   <!-- yellow color scheme for the blog posts and readable text -->
   <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/'>What is DNS?</BadgeLink>
+<BadgeLink colorScheme='yelllow' badgeText='Read' href='https://sudoxcoder.blogspot.com/2022/09/blog-post.html'>What is HTTP?</BadgeLink>
 
   ```
 
